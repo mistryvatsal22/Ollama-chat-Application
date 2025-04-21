@@ -206,5 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support, please contact:
 
-Your Name - your.email@example.com  
+Project Maintainer- Vatsal
+Email: vatsalmistry206@gmail.com
 Project Link: [https://github.com/ritigit7/Chat-with-all](https://github.com/ritigit7/Chat-with-all)
