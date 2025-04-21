@@ -1,4 +1,4 @@
-# Ollama AI Chat Application
+# Ollama Chat Application
 
 A full-featured chat application that allows you to interact with various AI models through Ollama, supporting multiple data sources including documents, websites, databases, and more.
 
@@ -208,4 +208,4 @@ For questions or support, please contact:
 
 Project Maintainer- Vatsal
 Email: vatsalmistry206@gmail.com
-Project Link: [https://github.com/ritigit7/Chat-with-all](https://github.com/ritigit7/Chat-with-all)
+Project Link: [https://github.com/mistryvatsal22/Ollama-chat-Application.git](https://github.com/mistryvatsal22/Ollama-chat-Application.git)
