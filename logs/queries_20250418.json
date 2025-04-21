@@ -1,0 +1,20 @@
+{"timestamp": "2025-04-18T13:10:31.692259", "model": "llama3", "source_type": "Direct Chat", "query": "hi"}
+{"timestamp": "2025-04-18T13:11:04.852297", "model": "llama3.2", "source_type": "Direct Chat", "query": "hi"}
+{"timestamp": "2025-04-18T13:11:41.042221", "model": "llama3.2", "source_type": "Direct Chat", "query": "do you know about porn star"}
+{"timestamp": "2025-04-18T13:12:10.287915", "model": "llama3.2", "source_type": "Direct Chat", "query": "do you know about jasmin jae"}
+{"timestamp": "2025-04-18T13:12:33.391528", "model": "llama3.2", "source_type": "Wikipedia", "query": "do you know about jasmin jae"}
+{"timestamp": "2025-04-18T13:37:02.439566", "model": "qwen2.5:1.5b", "source_type": "Direct Chat", "query": "hi"}
+{"timestamp": "2025-04-18T13:37:14.470081", "model": "qwen2.5:1.5b", "source_type": "Direct Chat", "query": "hi"}
+{"timestamp": "2025-04-18T13:39:09.208780", "model": "gemma3", "source_type": "Direct Chat", "query": "hi"}
+{"timestamp": "2025-04-18T13:39:28.580724", "model": "gemma3", "source_type": "Direct Chat", "query": "give me ten pornstar name"}
+{"timestamp": "2025-04-18T14:20:56.620505", "model": "llama3.2", "source_type": "Direct Chat", "query": "what is data science?"}
+{"timestamp": "2025-04-18T14:23:58.118037", "model": "llama3.2", "source_type": "Wikipedia", "query": "Pushpa movie details?"}
+{"timestamp": "2025-04-18T14:24:22.173045", "model": "llama3.2", "source_type": "Wikipedia", "query": "Pushpa movie details?"}
+{"timestamp": "2025-04-18T14:25:05.409446", "model": "llama3.2", "source_type": "Wikipedia", "query": "tell me about narendra modi?"}
+{"timestamp": "2025-04-18T14:25:40.319503", "model": "llama3.2", "source_type": "Wikipedia", "query": "tell  me about ratan tata?"}
+{"timestamp": "2025-04-18T14:25:57.419514", "model": "llama3.2", "source_type": "Wikipedia", "query": "What is latest news today?"}
+{"timestamp": "2025-04-18T14:37:31.266360", "model": "gemma3", "source_type": "PDF Document", "query": "what about skiils?"}
+{"timestamp": "2025-04-18T14:40:16.743117", "model": "gemma3", "source_type": "Word Document", "query": "what about in report?"}
+{"timestamp": "2025-04-18T14:40:53.005985", "model": "gemma3", "source_type": "Word Document", "query": "internsip duration?"}
+{"timestamp": "2025-04-18T14:44:07.975548", "model": "gemma3", "source_type": "Website", "query": "what is python?"}
+{"timestamp": "2025-04-18T14:44:49.844534", "model": "gemma3", "source_type": "Website", "query": "what is python fundamentals?"}
