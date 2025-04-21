@@ -207,5 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please contact:
 
 Project Maintainer- Vatsal
+
 Email: vatsalmistry206@gmail.com
+
 Project Link: [https://github.com/mistryvatsal22/Ollama-chat-Application.git](https://github.com/mistryvatsal22/Ollama-chat-Application.git)
